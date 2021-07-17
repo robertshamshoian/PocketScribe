@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron text-center">
+    <h1>PocketScribe</h1>
+    <p class="lead">PocketScribe is a desktop and mobile application that converts speech audio to text in real-time.</p>
+</div>
+
+<div style="background-color: #66cdaa; padding-top: 20px; padding-bottom: 40px;">
+
+    <div class="row" style="margin-bottom: 10px;">
+        <div class="col-md-4" style="box-shadow: 10px 15px #888888; margin-top: 10px; margin-left: 10%; border-style:solid; border-color: black; border-radius: 20px; background-color: white;">
+            <div>
+                <h2 style="text-align: center;">Getting Started</h2>
+                <p style="text-align: center;">
+                    Start creating a transcription to convert your speech into text by simply clicking the "Start A New Transcription" button below.
+                </p>
+                <p>
+                    @using (Html.BeginForm("Create", "Transcript"))
+                    {
+                        <button style="margin-left: 30%;" type="submit" class="btn-info">+ Start A New Transcription</button>
+                    }
+                </p>
+            </div>
+        </div>
+
+        <div class="col-md-4" style="box-shadow: 10px 15px #888888; margin-top: 150px; margin-left: 10%; border-style:solid; border-color: black; border-radius: 20px; background-color: white;">
+            <div>
+                <h2 style="text-align: center;">Sharing Transcriptions</h2>
+                <p style="text-align: center;"> You can easily share your transcriptions with anyone, which allows them to view and edit the transcription in real time.</p>
+                <p style="text-align: center;">Click the button below to see which transcriptions are shared with you!</p>
+                <p><button style="margin-left: 38%;" class="btn-info">@Html.ActionLink("Shared With Me", "Index", "SharedTranscript")</button></p>
+            </div>
+        </div>
+
+    </div>
+    <div style="box-shadow: 10px 15px #888888; width: 40%; margin-top: 0px; margin-left: 10%; border-style:solid; border-color: black; border-radius: 20px; background-color: white;">
+        <h2 style="text-align: center;">Saving Transcriptions</h2>
+        <p style="width: 75%; text-align: center; margin-left: 12%;">Transcriptions are automatically saved!!</p>
+        <p style="width: 75%; text-align: center; margin-left: 12%;">However, if you truly desire to have the transcription saved on your computer, do not fret! From the click of a button, you have the power to download transcriptions onto your computer in multiple formats (Text and PDF currently supported).</p>
+    </div>
+
+</div>

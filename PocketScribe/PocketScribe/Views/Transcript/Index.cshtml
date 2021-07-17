@@ -1,0 +1,84 @@
+﻿@model IEnumerable<PocketScribe.Models.Transcript>
+
+@{
+    ViewBag.Title = "Transcripts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<style>
+    body {
+        background-color: #66cdaa;
+    }
+</style>
+
+<div class="outer_container" style="padding: 10px;">
+    <div class="inner_container" style="box-shadow: 5px 5px #888888; border-style:solid; border-color: black; border-radius: 10px; background-color: white; margin-top: 20px; margin-bottom: 20px;">
+        <h2 style="margin-left: 10px;"> My Transcriptions: </h2>
+        @if (!Model.Any())
+        {
+            <p>We don't have any Transcripts yet.</p>
+            using (Html.BeginForm("Create", "Transcript"))
+            {
+                <button type="submit" class="btn-primary">+Start A New Transcription</button>
+            }
+        }
+        else
+        {
+            using (Html.BeginForm("Create", "Transcript"))
+            {
+                <button type="submit" class="btn-info" id="ntbutton">+Start A New Transcription</button>
+            }
+            <table id="transcripts" class="table table-bordered table-hover">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Date</th>
+                        <th> Delete</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var transcript in Model)
+                    {
+                        <tr>
+                            <td>@Html.ActionLink(transcript.Name, "Details", "Transcript", new { id = transcript.Id }, null)</td>
+                            <td>@transcript.Date</td>
+                            <td>
+                                <button data-transcript-id="@transcript.Id" class="btn-link js-delete">delete</button>
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+
+        @section scripts
+{
+            <script>
+                $(document).ready(function () {
+
+
+                    $("#transcripts").DataTable();
+                    $("#transcripts .js-delete").on("click", function () {
+                        var button = $(this);
+                        bootbox.confirm("Are you sure you want to delete this transcript?", function (result) {
+                            if (result) {
+                                $.ajax({
+                                    url: "/api/transcripts/" + button.attr("data-transcript-id"),
+                                    method: "DELETE",
+                                    success: function () {
+                                        button.parents("tr").remove();
+                                    }
+                                });
+                            }
+                        });
+                    });
+                });
+            </script>
+
+
+        }
+    </div>
+    </div>

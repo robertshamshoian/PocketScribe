@@ -1,0 +1,1425 @@
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\PocketScribe.dll.config
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\PocketScribe.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\PocketScribe.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\csc.exe
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\csc.exe.config
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\csc.rsp
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\csi.exe
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\csi.exe.config
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\csi.rsp
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.AppContext.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Console.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Net.Http.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\vbc.exe
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\vbc.exe.config
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\vbc.rsp
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Antlr3.Runtime.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\EntityFramework.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Newtonsoft.Json.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Owin.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.Helpers.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.Mvc.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.Optimization.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.Razor.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.WebPages.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\WebGrease.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.Helpers.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.Mvc.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.Optimization.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.Razor.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.WebPages.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Newtonsoft.Json.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Antlr3.Runtime.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\EntityFramework.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csprojAssemblyReference.cache
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.CopyComplete
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\obj\Debug\PocketScribe.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\obj\Debug\PocketScribe.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialCreate.resources
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.GenerateResource.cache
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel.resources
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel1.resources
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.Http.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.Http.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\AutoMapper.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\AutoMapper.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.startingBools.resources
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools.resources
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools1.resources
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x86.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x64.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.so
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.so
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Api.Gax.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Apis.Auth.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Apis.Core.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Apis.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Apis.PlatformServices.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.LongRunning.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Protobuf.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Grpc.Auth.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Grpc.Core.Api.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Grpc.Core.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\NAudio.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Interactive.Async.dll
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Api.Gax.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Api.Gax.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Apis.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Apis.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Apis.Auth.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Apis.Auth.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Apis.Core.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Apis.Core.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.LongRunning.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.LongRunning.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Protobuf.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Google.Protobuf.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Grpc.Auth.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Grpc.Auth.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Grpc.Core.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Grpc.Core.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Grpc.Core.Api.pdb
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\Grpc.Core.Api.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\NAudio.xml
+C:\Users\Rob\source\repos\PocketScribe\PocketScribe\bin\System.Interactive.Async.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x86.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x64.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.so
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.so
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.dll.config
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.exe
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.exe.config
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.rsp
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.exe
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.exe.config
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.rsp
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.AppContext.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Console.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Net.Http.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.ValueTuple.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.exe
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.exe.config
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.rsp
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Antlr3.Runtime.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\AutoMapper.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.PlatformServices.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\NAudio.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Newtonsoft.Json.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Owin.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Interactive.Async.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Helpers.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Mvc.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Optimization.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Razor.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\WebGrease.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\AutoMapper.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\NAudio.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Newtonsoft.Json.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Interactive.Async.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Helpers.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Mvc.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Optimization.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Razor.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Antlr3.Runtime.pdb
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csprojAssemblyReference.cache
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialCreate.resources
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel.resources
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel1.resources
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.startingBools.resources
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools.resources
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools1.resources
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.GenerateResource.cache
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.CopyComplete
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.dll
+C:\Users\rober\Source\Repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x86.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x64.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.so
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.so
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.dll.config
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.exe
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.exe.config
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.rsp
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.exe
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.exe.config
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.rsp
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.AppContext.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Console.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Net.Http.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.exe
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.exe.config
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.rsp
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Antlr3.Runtime.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\AutoMapper.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.PlatformServices.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\NAudio.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Newtonsoft.Json.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Owin.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Interactive.Async.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Helpers.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Mvc.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Optimization.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Razor.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\WebGrease.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\AutoMapper.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\NAudio.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Newtonsoft.Json.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Interactive.Async.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Helpers.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Mvc.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Optimization.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Razor.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Antlr3.Runtime.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialCreate.resources
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel.resources
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel1.resources
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.startingBools.resources
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools.resources
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools1.resources
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.GenerateResource.cache
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.CopyComplete
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.dll
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x86.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x64.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.so
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.so
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.dll.config
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.exe
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.exe.config
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.rsp
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.exe
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.exe.config
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.rsp
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.AppContext.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Console.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Net.Http.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.exe
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.exe.config
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.rsp
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Antlr3.Runtime.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\AutoMapper.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.PlatformServices.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\NAudio.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Newtonsoft.Json.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Owin.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Interactive.Async.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Helpers.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Mvc.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Optimization.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Razor.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\WebGrease.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\AutoMapper.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\NAudio.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Newtonsoft.Json.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Interactive.Async.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Helpers.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Mvc.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Optimization.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Razor.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Antlr3.Runtime.pdb
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csprojAssemblyReference.cache
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialCreate.resources
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel.resources
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel1.resources
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.startingBools.resources
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools.resources
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools1.resources
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.GenerateResource.cache
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.CoreCompileInputs.cache
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.CopyComplete
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.dll
+C:\Users\Hao Ying\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.pdb
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csprojAssemblyReference.cache
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.ShareUsers.resources
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.Sharing.resources
+C:\Users\Rob\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.Sharing2.resources
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x86.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x64.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.so
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.so
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.dll.config
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.exe
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.exe.config
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.rsp
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.exe
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.exe.config
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.rsp
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.AppContext.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Console.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Net.Http.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.exe
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.exe.config
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.rsp
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Antlr3.Runtime.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\AutoMapper.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.PlatformServices.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\NAudio.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Newtonsoft.Json.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Owin.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Interactive.Async.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Helpers.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Mvc.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Optimization.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Razor.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\WebGrease.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\AutoMapper.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\NAudio.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Newtonsoft.Json.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Interactive.Async.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Helpers.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Mvc.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Optimization.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Razor.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Antlr3.Runtime.pdb
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csprojAssemblyReference.cache
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialCreate.resources
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel.resources
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel1.resources
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.startingBools.resources
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools.resources
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools1.resources
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.ShareUsers.resources
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.Sharing.resources
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.Sharing2.resources
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.GenerateResource.cache
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.CopyComplete
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.dll
+C:\Users\Rob\Desktop\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x86.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x64.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.so
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.so
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.dll.config
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.exe
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.exe.config
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.rsp
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.exe
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.exe.config
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.rsp
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.AppContext.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Console.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Net.Http.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.exe
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.exe.config
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.rsp
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Antlr3.Runtime.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\AutoMapper.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.PlatformServices.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\NAudio.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Newtonsoft.Json.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Owin.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Interactive.Async.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Helpers.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Mvc.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Optimization.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Razor.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\WebGrease.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\AutoMapper.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\NAudio.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Newtonsoft.Json.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Interactive.Async.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Helpers.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Mvc.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Optimization.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Razor.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Antlr3.Runtime.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csprojAssemblyReference.cache
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialCreate.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel1.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.startingBools.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools1.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.ShareUsers.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.Sharing.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.Sharing2.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.GenerateResource.cache
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.CopyComplete
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x86.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x64.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.so
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.so
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.dll.config
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\PocketScribe.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.exe
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.exe.config
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csc.rsp
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.exe
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.exe.config
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\csi.rsp
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.AppContext.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Console.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Net.Http.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.exe
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.exe.config
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\vbc.rsp
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Antlr3.Runtime.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\AutoMapper.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.PlatformServices.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\NAudio.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Newtonsoft.Json.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Owin.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Interactive.Async.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Helpers.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Mvc.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Optimization.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Razor.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\WebGrease.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\AutoMapper.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Auth.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Apis.Core.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.LongRunning.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Google.Protobuf.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Auth.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Grpc.Core.Api.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\NAudio.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Newtonsoft.Json.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Interactive.Async.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Helpers.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Mvc.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Optimization.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.Razor.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Antlr3.Runtime.pdb
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csprojAssemblyReference.cache
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialCreate.resources
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel.resources
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel1.resources
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.startingBools.resources
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools.resources
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools1.resources
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.ShareUsers.resources
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.Sharing.resources
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.Sharing2.resources
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.GenerateResource.cache
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.CoreCompileInputs.cache
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.CopyComplete
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.dll
+C:\Users\Wasif\source\repos\pocketscribe-web-v2\PocketScribe\PocketScribe\obj\Debug\PocketScribe.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x86.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\grpc_csharp_ext.x64.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.so
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.so
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\PocketScribe.dll.config
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\PocketScribe.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\PocketScribe.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\csc.exe
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\csc.exe.config
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\csc.rsp
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\csi.exe
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\csi.exe.config
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\csi.rsp
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.AppContext.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Console.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Net.Http.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\vbc.exe
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\vbc.exe.config
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\vbc.rsp
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Antlr3.Runtime.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\AutoMapper.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\EntityFramework.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Api.Gax.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Apis.Auth.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Apis.Core.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Apis.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Apis.PlatformServices.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.LongRunning.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Protobuf.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Grpc.Auth.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Grpc.Core.Api.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Grpc.Core.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\NAudio.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Newtonsoft.Json.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Owin.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Interactive.Async.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.Helpers.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.Http.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.Mvc.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.Optimization.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.Razor.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.WebPages.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\WebGrease.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\AutoMapper.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Api.CommonProtos.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Api.Gax.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Api.Gax.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Api.Gax.Grpc.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Apis.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Apis.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Apis.Auth.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Apis.Auth.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Apis.Core.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Apis.Core.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Cloud.Speech.V1.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.LongRunning.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.LongRunning.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Protobuf.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Google.Protobuf.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Grpc.Auth.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Grpc.Auth.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Grpc.Core.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Grpc.Core.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Grpc.Core.Api.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Grpc.Core.Api.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\NAudio.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Newtonsoft.Json.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Interactive.Async.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Net.Http.Formatting.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.Http.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.Http.WebHost.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.Helpers.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.Mvc.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.Optimization.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.Razor.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.WebPages.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Antlr3.Runtime.pdb
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\EntityFramework.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\EntityFramework.SqlServer.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csprojAssemblyReference.cache
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialCreate.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.InitialModel1.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.startingBools.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.modifiedbools1.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.ShareUsers.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.Sharing.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\obj\Debug\PocketScribe.Migrations.Sharing2.resources
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.GenerateResource.cache
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\obj\Debug\PocketScribe.csproj.CopyComplete
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\obj\Debug\PocketScribe.dll
+C:\Users\Rob\Downloads\pocketscribe-web-v2-master\pocketscribe-web-v2-master\PocketScribe\PocketScribe\obj\Debug\PocketScribe.pdb

@@ -1,0 +1,300 @@
+﻿@using Microsoft.Ajax.Utilities
+@model PocketScribe.ViewModels.AllTranscipts
+
+@{
+    ViewBag.Title = Model.transcript.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section JavaScript
+{
+    <script type="text/javascript" src="@Url.Content("/Scripts/Test.js")"></script>
+}
+<head>
+
+    @Styles.Render("~/Content/Site.css")
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+</head>
+<style>
+    * {
+        font-family: Verdana, Arial, sans-serif;
+    }
+
+    .center {
+        padding: 10px;
+        text-align: center;
+    }
+
+    .final {
+        color: black;
+        padding-right: 3px;
+    }
+
+    .interim {
+        color: gray;
+    }
+
+    .info {
+        font-size: 14px;
+        text-align: center;
+        color: #777;
+        display: none;
+    }
+
+    .right {
+        float: right;
+    }
+
+    .sidebyside {
+        display: inline-block;
+        width: 45%;
+        min-height: 40px;
+        text-align: left;
+        vertical-align: top;
+    }
+
+    #headline {
+        font-size: 40px;
+        font-weight: 300;
+    }
+
+    #info {
+        font-size: 20px;
+        text-align: center;
+        color: #777;
+        visibility: hidden;
+    }
+
+    #results {
+        font-size: 14px;
+        font-weight: bold;
+        border: 1px solid #ddd;
+        padding: 15px;
+        text-align: left;
+        min-height: 150px;
+    }
+
+    #start_button {
+        border: 0;
+        background-color: transparent;
+        padding: 0;
+    }
+</style>
+<div class="wrapper">
+    @Html.Partial("_SideBar")
+    <div id="content" style="width:100%;">
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <div style="background: aliceblue">
+                    <button type="button" id="sidebarCollapse" class="btn btn-info">
+                        <span>Toggle Sidebar</span>
+                    </button>
+
+                    <div id="container3">
+                        <!-- added -->
+                        <div id="container2">
+                            <!-- added -->
+                            <div id="container1">
+                                <div id="col1">
+                                    <div class="box">
+                                        <button type="button" id="shareButtton" data-toggle="modal" data-target="#shareModal"></button>
+                                    </div>
+                                </div>
+                                <div id="col2">
+                                    <h1><span onkeydown="rename()" contenteditable="true" id="editTitle" style="color: #66cdaa">@Model.transcript.Name</span></h1>
+                                    <h5>@Model.transcript.Date</h5>
+                                </div>
+                                <div id="col3">
+                                    <div class="box">
+                                        <button type="button" id="dlButon" data-toggle="modal" data-target="#downloadModal"></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> <!-- added -->
+                    </div> <!-- added -->
+                </div>
+            </div>
+        </nav>
+        <div id="results">
+            <span onkeydown="editText()" contenteditable="true" id="final_span" class="final">@Model.transcript.Text</span>
+            <span id="interim_span" class="interim" style="color: darkgray"></span>
+            <p>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="shareModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Share your transcription (enter comma separated email addresses)</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    <strong>
+                        Sharing with:
+                    </strong>
+                    <span id="sharingSpan">
+                        @String.Join(", ", Model.transcript.SharedUsersCollection.Select(x => x.User))
+
+                    </span>
+                </p>
+                <input type="email" class="form-control" id="InputEmail" aria-describedby="emailHelp" placeholder="Enter email Addresses" style="width: 100%">
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="share" class="btn btn-success" onclick="share()">Share</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="downloadModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Download your transcription</h4>
+            </div>
+            <div class="modal-body">
+                <p>Need to add downloading</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+@section Scripts
+{
+    <script type="text/javascript">
+
+
+        $.connection.hub.start().done(function () {
+            $.connection.myHub.server.joinRoom(@Model.transcript.Id.ToString());
+        });
+
+        function rename() {
+            $.get("/Transcript/Rename",
+                {
+                    id: @Model.transcript.Id,
+                    name: $('#editTitle').text()
+                },
+                function (data) {
+                    //alert('rename successfully');
+                });
+        }
+          function editText() {
+            $.get("/Transcript/EditText",
+                {
+                    id: @Model.transcript.Id,
+                    text: $('#transcriptText').text()
+                },
+                function (data) {
+                    //alert('rename successfully');
+                });
+        }
+
+
+        function share() {
+            $.get("/Transcript/Share",
+                {
+                    id: @Model.transcript.Id,
+                    users: document.getElementById("InputEmail").value
+                },
+                function (data) {
+                    $("#sharingSpan").append(data);
+                    document.getElementById("InputEmail").value = "";
+                });
+        }
+
+        @*function DownloadText() {
+
+
+            $.get("/Transcript/DownloadText/"+ @Model.transcript.Id,{},
+                function(data) {
+                  alert("download successfully")
+                });
+
+        }*@
+
+        $.connection.myHub.client.MessageReceiverInterim = function(message) {
+            if (checkWords(message, document.getElementById('interim_span').innerHTML)) {
+                $("#interim_span").text(message);
+            } else {
+                $("#interim_span").append(message);
+            }
+        }
+        $.connection.myHub.client.MessageReceiver = function(message) {
+            $("#interim_span").text("");
+            $("#final_span").append(message + " ");
+        }
+
+        function checkWords(string1, string2) {
+            var split1 = string1.split(" ");
+            var split2 = string2.split(" ");
+            var count = 0;
+
+            if (split1.length > split2.length) {
+                for (var i = 0; i < split1.length; i++) {
+                    if (split2.includes(split1[i])) {
+                        count++;
+                        split2.splice( split2.indexOf(split1[i]), 1 );
+                    }
+                }
+                if (count >= split2.length) {
+                    console.log(count/split1.length);
+                    return true;
+                } else {
+                    return false;
+                }
+            } else {
+                for (var i = 0; i < split2.length; i++) {
+                    if (split1.includes(split2[i])) {
+                        count++;
+                        split1.splice( split1.indexOf(split2[i]), 1 );
+                    }
+                }
+                if (count >= split1.length) {
+                    console.log(count/split2.length);
+                    return true;
+                } else return false;
+            }
+
+
+        }
+        function search() {
+            // Declare variables
+            var input, filter, table, tr, td, i, txtValue;
+            input = document.getElementById("myInput");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("myTable");
+            tr = table.getElementsByTagName("tr");
+
+            // Loop through all table rows, and hide those who don't match the search query
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+    </script>
+
+}

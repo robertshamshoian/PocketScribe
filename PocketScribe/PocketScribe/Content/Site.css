@@ -1,0 +1,255 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+}
+
+
+.wrapper {
+    display: flex;
+    align-items: stretch;
+}
+
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+}
+
+#sidebar.active {
+    margin-left: -250px;
+}
+
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    min-height: 100vh;
+}
+
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+
+    #sidebar.active {
+        margin-left: 0;
+    }
+}
+
+a, a:hover, a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+#sidebar {
+    /* don't forget to add all the previously mentioned styles here too */
+    background: #3e3f3a;
+    transition: all 0.3s;
+    color: lightgray;
+}
+
+    #sidebar .sidebar-header {
+        padding: 20px;
+        background: #3e3f3a;
+    }
+#sbheader {
+    background: #3e3f3a;
+}
+
+#sidebar ul.components {
+    padding: 20px 0;
+}
+
+#sidebar ul p {
+    padding: 10px;
+}
+
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+}
+
+    #sidebar ul li a:hover {
+        color: #66cdaa;
+    }
+
+#sidebar ul li.active > a, a[aria-expanded="true"] {
+    background: #3e3f3a;
+}
+
+ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: #3e3f3a;
+}
+
+
+#transcribeButtons {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#ntbutton {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+#ntbutton2 {
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+
+#myInput {
+    background-image: url('searchicon.png'); /* Add a search icon to input */
+    background-size: 15%;
+    background-position: 2px 8px; /* Position the search icon */
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    width: 90%; /* Full-width */
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    margin-bottom: 12px; /* Add some space below the input */
+    margin-left: 10px;
+    color: #3e3f3a;
+}
+
+#myTable {
+    border-collapse: collapse; /* Collapse borders */
+    border-color: #3e3f3a;
+    width: 100%; /* Full-width */
+    font-size: 18px; /* Increase font-size */
+}
+
+    #myTable th, #myTable td {
+        text-align: center; /* Center-align text */
+        border-color: #3e3f3a;
+        border-bottom: 1px solid #ddd;
+    }
+
+    #myTable tr {
+        /* Add a bottom border to all table rows */
+        border-color: #3e3f3a;
+    }
+
+        #myTable tr.header, #myTable tr:hover {
+            /* Add a grey background color to the table header and on hover */
+            background-color: #66cdaa;
+            color: #3e3f3a;
+            border-color: #3e3f3a;
+        }
+
+#container3 {
+    float: left;
+    width: 100%;
+    background: aliceblue;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+}
+
+#container2 {
+    float: left;
+    width: 100%;
+    background: aliceblue;
+    position: relative;
+    right: 30%;
+    text-align: center
+}
+
+#container1 {
+    float: left;
+    width: 100%;
+    background: aliceblue;
+    position: relative;
+    right: 40%;
+    display: flex;
+}
+
+#col1 {
+    float: left;
+    width: 26%;
+    position: relative;
+    left: 72%;
+    overflow: hidden;
+    justify-content: center;
+    display: flex;
+}
+
+#col2 {
+    text-align: center;
+    float: left;
+    width: 36%;
+    position: relative;
+    left: 76%;
+    overflow: hidden;
+}
+
+#col3 {
+    float: left;
+    width: 26%;
+    position: relative;
+    left: 80%;
+    overflow: hidden;
+    justify-content: center;
+    display: flex;
+}
+#shareButtton {
+    background-image: url('share.png'); /* Add a share icon to input */
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+    background-color: Transparent;
+    border: none;
+    cursor: pointer;
+}
+#dlButon {
+    background-image: url('download.png'); /* Add a download icon to input */
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+    background-color: Transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.box {
+    align-self: flex-end;
+}
+#transcriptDiv {
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#transcriptText {
+    line-height: 2;
+}

@@ -1,0 +1,80 @@
+﻿@model IEnumerable<PocketScribe.Models.Transcript>
+
+@{
+    ViewBag.Title = "Shared Transcripts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    body {
+        background-color: #66cdaa;
+    }
+</style>
+
+<div class="outer_container" style="padding: 10px;">
+<div class="inner_container" style="box-shadow: 5px 5px #888888; border-style:solid; border-color: black; border-radius: 10px; background-color: white; margin-top: 20px; margin-bottom: 20px;">
+<h2 style="margin-left: 10px;">Transcripts Shared With Me:</h2>
+@if (!Model.Any())
+{
+    <p style="margin-left: 20px;">No one has shared any transcripts with you!</p>
+}
+else
+{
+    <table id="transcripts" class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Created By</th>
+                <th>Date</th>
+                @*<th> Download Text</th>*@
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var transcript in Model)
+            {
+            <tr>
+                <td>@Html.ActionLink(transcript.Name, "Details", "SharedTranscript", new { id = transcript.Id }, null)</td>
+                <td>
+                    @transcript.UserName
+                </td>
+                <td>@transcript.Date</td>
+                @*<td>
+            <button data-transcript-id="@transcript.Id" class="btn-link js-download">download</button>
+        </td>*@
+            </tr>
+            }
+        </tbody>
+    </table>
+}
+</div>
+</div>
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+
+
+            $("#transcripts").DataTable();
+        });
+    </script>
+
+    @*<script>
+        $(document).ready(function () {
+            $("#transcripts .js-download").on("click", function () {
+                var button = $(this);
+                bootbox.confirm("Are you sure you want to download this transcript?", function (result) {
+                    if (result) {
+                        $.ajax({
+                            url: "api/transcript/download/" + button.attr("data-transcript-id"),
+                            method: "GET",
+                            success: function () {
+                                alert("Download successful");
+                            }
+                        });
+                    }
+                });
+            });
+        });
+    </script>*@
+}

@@ -1,0 +1,36 @@
+﻿@model PocketScribe.ViewModels.AllTranscipts
+
+<nav id="sidebar">
+    <div class="sidebar-header">
+    </div>
+    @if (!Model.Transcripts.Any())
+    {
+        <p>You don't have any Transcripts yet!</p>
+    }
+    else
+    {
+    <div id="sbheader">
+        <input type="text" id="myInput" onkeyup="search()" placeholder="Search...">
+    </div>
+        <table id="myTable" class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var transcript in Model.Transcripts.Reverse())
+                {
+                    <tr>
+                        <td>
+                            <strong>@Html.ActionLink(transcript.Name, "Details", "SharedTranscript", new { id = transcript.Id }, null)</strong>
+                            <p style="font-size: 16px; padding: 0px; margin: 0px;">@transcript.Date</p>
+                            <p style="font-size: 12px; padding: 0px; margin: 0px;">@transcript.UserName</p>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    }
+</nav>
+
